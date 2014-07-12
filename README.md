@@ -1,4 +1,4 @@
-blockchain
+Blockchain
 ==========
 
-Blockchain
+Blockchain utilities.
